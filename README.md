@@ -17,6 +17,8 @@ This tool only for to find the lost wallets.Do not misuse.
 
  `cd Wallen-gen`
 
+ `unzip walletgen.zip`
+
  `chmod +x walletgen`
 
  `./walletgen.sh`
