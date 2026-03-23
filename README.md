@@ -10,7 +10,7 @@ This tool only for to find the lost wallets.Do not misuse.
 
  `sudo apt install unzip -y`
 
- `sudo apt install git`
+ `sudo apt install git -y`
 
 
  `git clone https://github.com/naveennave14/Wallen-gen.git`
