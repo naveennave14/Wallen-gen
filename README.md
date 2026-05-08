@@ -26,7 +26,7 @@ This tool only for to find the lost wallets.Do not misuse.
  `./walletgen.sh`
 
  # Bitcoin database link to download wallets
- https://t.me/minegram_family/34894/39842
+ https://t.me/nave1416/43
 
 
-# This tool only maded for rooted user's
+# This tool only maded for rooted user's And cloud shell
